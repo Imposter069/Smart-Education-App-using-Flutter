@@ -1008,6 +1008,4 @@ smart-education-app/
 
 If you found this project helpful, please **star the repository** ⭐ — it helps a lot!
 
----
 
-*Built with Flutter, Supabase, Gemini AI & n8n — Smart Education App, empowering learners one lesson at a time.* 🎓
